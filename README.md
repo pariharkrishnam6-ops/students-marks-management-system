@@ -70,3 +70,9 @@ Through this project, I practised:
 
 GitHub: https://github.com/pariharkrishnam6-ops
 
+## 📸 Project Output
+
+Here is a sample execution of the Student Marks Management System:
+
+![Project Output](project-output.png)
+
